@@ -1,4 +1,4 @@
 # web.github.io
-Es una primera prueba para sitio web en github
+Es una primera prueba para sitio web en GitHub
 
-Aque agrego otra linea
+Aquí agrego otra linea
